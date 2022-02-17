@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.workflow.libs.GlobalLibraries plugin="workflow-cps-global-lib@561.va_ce0de3c2d69">
+  <libraries class="empty-list"/>
+</org.jenkinsci.plugins.workflow.libs.GlobalLibraries>
